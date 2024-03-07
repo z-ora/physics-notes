@@ -1,0 +1,12 @@
+[book]
+authors = ["tovicheung"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Tovi's Physics Notes"
+
+[output.html]
+no-section-label = true
+
+[preprocessor.katex]
+after = ["links"]
