@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "517d974f3dc9361c",
+        "id": "1698a10f04d26efe",
         "type": "tabs",
         "children": [
           {
-            "id": "8a44ef8919dc2dbd",
+            "id": "baabc34c7e3b6b73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/3A.md",
+                "file": "Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/3A.md",
+                "file": "Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/3A.md",
+                "file": "Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/3A.md"
+                "file": "Introduction.md"
               }
             }
           }
@@ -146,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a44ef8919dc2dbd",
+  "active": "baabc34c7e3b6b73",
   "lastOpenFiles": [
-    "3A/refraction.md",
     "SUMMARY.md",
-    "Introduction.md",
     "().md",
+    "book3a/refraction.md",
+    "book3a/3A.md",
+    "Introduction.md",
     "book2/acceleration.md",
     "book2/test",
     "book2/b2.md",
@@ -160,8 +161,7 @@
     "assets",
     "3A/3A",
     "3A/refraction",
-    "3A/3A.md",
     "chapter_1.md",
-    "3A"
+    "book3a"
   ]
 }

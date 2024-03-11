@@ -11,6 +11,8 @@ Note that
 1. notes may not cover all topics / concepts
 2. notes may lack diagrams
 
+**This notes is very incomplete, will be constantly updated :3**
+
 <br>
 <br>
 <br>
