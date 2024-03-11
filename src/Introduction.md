@@ -2,6 +2,11 @@
 
 This is Tovi's private physics notes.
 
+> Important!
+> If Tovi sends this to you, it means he trust u. So **DON'T** send this to other people.
+
+> Confidential 🤫🤫
+
 This notes is
 1. written in a concise way
 2. written in an easy-to-read way
