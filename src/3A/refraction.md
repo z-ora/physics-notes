@@ -1,5 +1,7 @@
 # Refraction of light
 
+Test: $ hi 1 + 1 = 2 $
+
 Laws of refraction:
 1. $\dfrac{sin\theta_1}{sin\theta_2}$ is constant for any refraction between two media
 2. incident ray, reflected ray, refracted ray, normal all lie on the same plane
