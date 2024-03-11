@@ -9,4 +9,5 @@ title = "Tovi's Physics Notes"
 no-section-label = true
 
 [preprocessor.katex]
+command = "cargo install mdbook-katex"
 after = ["links"]
