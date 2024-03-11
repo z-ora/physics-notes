@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
+                "file": "SUMMARY.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
+                "file": "SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction.md"
+                "file": "SUMMARY.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "baabc34c7e3b6b73",
   "lastOpenFiles": [
+    "Introduction.md",
     "SUMMARY.md",
     "().md",
     "book3a/refraction.md",
     "book3a/3A.md",
-    "Introduction.md",
     "book2/acceleration.md",
     "book2/test",
     "book2/b2.md",

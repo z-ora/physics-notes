@@ -10,4 +10,3 @@
 - [momentum]()
 - [work]()
 - [etc... coming soon!!]()
-- 
