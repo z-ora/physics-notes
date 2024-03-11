@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       MDBOOK_VERSION: '0.4.37'
-      MDBOOK_LINKCHECK_VERSION: '0.7.7'
-      MDBOOK_MERMAID_VERSION: '0.13.0'
+      MDBOOK_LINKCHECK_VERSION: '0.7.4'
+      MDBOOK_MERMAID_VERSION: '0.8.3'
     steps:
     - uses: actions/checkout@v2
       with:
