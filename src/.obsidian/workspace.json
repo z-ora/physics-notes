@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/refraction.md",
+                "file": "3A/3A.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/refraction.md",
+                "file": "3A/3A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/refraction.md",
+                "file": "3A/3A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/refraction.md"
+                "file": "3A/3A.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "8a44ef8919dc2dbd",
   "lastOpenFiles": [
+    "3A/refraction.md",
     "SUMMARY.md",
     "Introduction.md",
     "().md",
-    "3A/refraction.md",
     "book2/acceleration.md",
     "book2/test",
     "book2/b2.md",
