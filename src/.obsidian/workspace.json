@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1698a10f04d26efe",
+        "id": "5a7a3a7113afa3ac",
         "type": "tabs",
         "children": [
           {
-            "id": "baabc34c7e3b6b73",
+            "id": "562ddefa7ffab5f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
+                "file": "book3a/tir.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
+                "file": "book3a/tir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
+                "file": "book3a/tir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction.md"
+                "file": "book3a/tir.md"
               }
             }
           }
@@ -146,16 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "baabc34c7e3b6b73",
+  "active": "562ddefa7ffab5f6",
   "lastOpenFiles": [
     "SUMMARY.md",
+    "book3a/t",
+    "book3a/tir.md",
+    "book2/b2.md",
     "Introduction.md",
-    "().md",
+    "book3a/assets",
+    "book3a/assets/tir_compare.png",
     "book3a/refraction.md",
+    "().md",
     "book3a/3A.md",
     "book2/acceleration.md",
     "book2/test",
-    "book2/b2.md",
     "book2",
     "assets/work_in_progress.png",
     "assets",
