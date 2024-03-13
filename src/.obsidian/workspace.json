@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5a7a3a7113afa3ac",
+        "id": "bce54217d91f4ae6",
         "type": "tabs",
         "children": [
           {
-            "id": "562ddefa7ffab5f6",
+            "id": "2742ba3e97f529bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book3a/tir.md",
+                "file": "book2/distance_displacement.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book3a/tir.md",
+                "file": "book2/distance_displacement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book3a/tir.md",
+                "file": "book2/distance_displacement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book3a/tir.md"
+                "file": "book2/distance_displacement.md"
               }
             }
           }
@@ -146,12 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "562ddefa7ffab5f6",
+  "active": "2742ba3e97f529bb",
   "lastOpenFiles": [
+    "book2/speed_velocity.md",
+    "book2/distance_displacement.md",
+    "book2/assets/v-t graph 1.png",
+    "book2/assets/car_speedometer.png",
     "SUMMARY.md",
-    "book3a/t",
-    "book3a/tir.md",
+    "book2/distance_displacement",
+    "book2/distance",
+    "book2/assets",
+    "book2/assets/s-t graph 1.png",
     "book2/b2.md",
+    "book3a/tir.md",
+    "book3a/t",
     "Introduction.md",
     "book3a/assets",
     "book3a/assets/tir_compare.png",
@@ -165,7 +173,6 @@
     "assets",
     "3A/3A",
     "3A/refraction",
-    "chapter_1.md",
-    "book3a"
+    "chapter_1.md"
   ]
 }
