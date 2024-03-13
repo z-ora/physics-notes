@@ -15,15 +15,6 @@ Laws of refraction:
 	- The incident ray is the brightest, because some light is reflected and some light is refracted. The energy in the incident ray is shared by the reflected ray and the refracted ray.
 
 ---
-### Speed of light $v$
-> *"the speed of light in \[medium\] is ..."*
-- The speed of light in vacuum is the fastest ($= c$)
-- In DSE, speed of light in air is **approximately equal** to that in vacuum
-- Colour spectrum: red, orange, yellow, green, blue, indigo, violet
-	- All colours have the same speed in vacuum
-	- In other media ($n > 1$), red is the fastest, violet is the slowest
-
----
 ### Refractive index $n$
 > *"the refractive index of \[medium\] is ..."*
 > 
@@ -33,3 +24,9 @@ Refractive index is affected by:
 * material of the medium
 * colour of light ray
 	* smallest for red, largest for violet
+	* **Note:** $n$ of vacuum (and air) is $1$ for ALL colours
+
+Vacuum/air
+* Refractive index of vacuum $n_{vacuum} = 1$
+* Refractive index of air $n_{air} \approx 1$
+* In DSE: $n_{air} = 1$

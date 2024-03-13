@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bce54217d91f4ae6",
+        "id": "b919798715c99d56",
         "type": "tabs",
         "children": [
           {
-            "id": "2742ba3e97f529bb",
+            "id": "236ae72e5792cea2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book2/speed_velocity.md",
+                "file": "book3a/refraction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book2/speed_velocity.md",
+                "file": "book3a/refraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book2/speed_velocity.md",
+                "file": "book3a/refraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book2/speed_velocity.md"
+                "file": "book3a/refraction.md"
               }
             }
           }
@@ -146,11 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2742ba3e97f529bb",
+  "active": "236ae72e5792cea2",
   "lastOpenFiles": [
+    "book3a/light_properties.md",
+    "Introduction.md",
+    "book3a/refraction.md",
     "SUMMARY.md",
-    "book2/distance_displacement.md",
     "book2/speed_velocity.md",
+    "book2/distance_displacement.md",
     "book2/assets/v-t graph 1.png",
     "book2/assets/car_speedometer.png",
     "book2/distance_displacement",
@@ -160,10 +163,8 @@
     "book2/b2.md",
     "book3a/tir.md",
     "book3a/t",
-    "Introduction.md",
     "book3a/assets",
     "book3a/assets/tir_compare.png",
-    "book3a/refraction.md",
     "().md",
     "book3a/3A.md",
     "book2/acceleration.md",

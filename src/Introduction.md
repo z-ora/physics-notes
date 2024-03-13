@@ -7,6 +7,8 @@ This is Tovi's private physics notes.
 
 > Confidential 🤫🤫
 
+> This notes will be updated regularly on Wednesday nights (hopefully)
+
 This notes is
 1. written in a concise way
 2. written in an easy-to-read way
