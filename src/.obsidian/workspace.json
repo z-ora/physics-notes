@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book2/distance_displacement.md",
+                "file": "book2/speed_velocity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book2/distance_displacement.md",
+                "file": "book2/speed_velocity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book2/distance_displacement.md",
+                "file": "book2/speed_velocity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book2/distance_displacement.md"
+                "file": "book2/speed_velocity.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "2742ba3e97f529bb",
   "lastOpenFiles": [
-    "book2/speed_velocity.md",
+    "SUMMARY.md",
     "book2/distance_displacement.md",
+    "book2/speed_velocity.md",
     "book2/assets/v-t graph 1.png",
     "book2/assets/car_speedometer.png",
-    "SUMMARY.md",
     "book2/distance_displacement",
     "book2/distance",
     "book2/assets",

@@ -7,6 +7,7 @@
 
 # Book 2
 - [Distance & Displacement](book2/distance_displacement.md)
+- [Speed & Velocity](book2/speed_velocity.md)
 - [acceleration]()
 - [velocity]()
 - [momentum]()
