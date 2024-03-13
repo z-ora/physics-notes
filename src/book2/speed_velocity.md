@@ -4,6 +4,7 @@
 | ------- | ----- | -------- |
 | symbol  | /     | $\vec v$ |
 | vector? | no    | yes      |
+
 There are two kinds of velocity:
 
 ### Average velocity

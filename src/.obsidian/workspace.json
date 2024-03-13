@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book3a/refraction.md",
+                "file": "book2/speed_velocity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book3a/refraction.md",
+                "file": "book2/speed_velocity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book3a/refraction.md",
+                "file": "book2/speed_velocity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book3a/refraction.md"
+                "file": "book2/speed_velocity.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "236ae72e5792cea2",
   "lastOpenFiles": [
+    "book3a/refraction.md",
     "book3a/light_properties.md",
     "Introduction.md",
-    "book3a/refraction.md",
     "SUMMARY.md",
     "book2/speed_velocity.md",
     "book2/distance_displacement.md",
