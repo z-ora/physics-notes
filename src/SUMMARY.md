@@ -1,6 +1,10 @@
 # Summary
 
 [Introduction](Introduction.md)
+
+# Book 1 (newest)
+- [Internal energy, KE & PE](book1/internal_energy.md)
+- [Heat](book1/heat.md)
 # Book 3A
 - [Properties of Light](book3a/light_properties.md)
 - [Refraction](book3a/refraction.md)
@@ -15,3 +19,6 @@
 - [momentum]()
 - [work]()
 - [etc... coming soon!!]()
+
+# Skills
+- [Δ Delta operations](other/delta.md)

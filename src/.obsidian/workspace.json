@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b919798715c99d56",
+        "id": "1a9feef4e47eb830",
         "type": "tabs",
         "children": [
           {
-            "id": "236ae72e5792cea2",
+            "id": "87a19e711107cf14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book2/speed_velocity.md",
+                "file": "book1/internal_energy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book2/speed_velocity.md",
+                "file": "book1/internal_energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book2/speed_velocity.md",
+                "file": "book1/internal_energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book2/speed_velocity.md"
+                "file": "book1/internal_energy.md"
               }
             }
           }
@@ -146,13 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "236ae72e5792cea2",
+  "active": "87a19e711107cf14",
   "lastOpenFiles": [
-    "book3a/refraction.md",
-    "book3a/light_properties.md",
-    "Introduction.md",
+    "book1/heat.md",
     "SUMMARY.md",
+    "book1/internal_energy.md",
+    "links/edpuzzle.md",
+    "book1",
+    "book3a/light_properties.md",
+    "book3a/tir.md",
+    "book3a/refraction.md",
+    "book3a/assets/tir_compare.png",
+    "book3a/assets/tir_compare 1.png",
+    "other/delta.md",
+    "other",
+    "test.md",
+    "links",
     "book2/speed_velocity.md",
+    "Introduction.md",
     "book2/distance_displacement.md",
     "book2/assets/v-t graph 1.png",
     "book2/assets/car_speedometer.png",
@@ -161,19 +172,14 @@
     "book2/assets",
     "book2/assets/s-t graph 1.png",
     "book2/b2.md",
-    "book3a/tir.md",
     "book3a/t",
     "book3a/assets",
-    "book3a/assets/tir_compare.png",
     "().md",
     "book3a/3A.md",
     "book2/acceleration.md",
     "book2/test",
     "book2",
     "assets/work_in_progress.png",
-    "assets",
-    "3A/3A",
-    "3A/refraction",
     "chapter_1.md"
   ]
 }
