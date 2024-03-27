@@ -11,6 +11,14 @@ Heat $Q$ has unit Joule ($J$)
 - Heat transfer stops if the temperatures of the two bodies become the same.
 	- They are said to have achieved **thermal equilibrium**
 
+---
+
+### Effect on internal energy
+When an object absorbs heat:
+- its internal energy will increase (due to energy conservation)
+- its KE or PE will increase but we cannot directly know which
+	- if the heat goes to KE, the temperature increases
+	- if the heat goes to PE, the state changes
 
 ---
 ### Common situations

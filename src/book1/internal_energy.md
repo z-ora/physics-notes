@@ -24,6 +24,19 @@ Total KE/PE depends on:
 ### Internal energy
 Internal energy = total KE + total PE
 
+> When an object absorbs heat, the energy will go to its internal energy.
+> It can go to both KE or PE, so we cannot know for sure without additional information.
+
+---
+
+### Misconceptions
+
+- Change of state does **NOT** mean temperature increase/decrease
+	- ie. change in average PE does not mean change in average KE
+> Example: ice melting into water
+> In $0\degree C$, ice and water can coexist (exist at the same time)
+> some of the ice might melt into water, even without temperature change
+
 ---
 ### Concept Questions
 
