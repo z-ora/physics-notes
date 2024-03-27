@@ -10,8 +10,8 @@ This is Tovi's private physics notes.
 
 ---
 ## New Stuff: 27/3
-- more edpuzzle links for revision
-- Solving heat problems: [new page](book1/heat_problems.md) with example
+- [Edpuzzle links](links/edpuzzle.md) for revision
+- [How to solve heat problems](book1/heat_problems.md) with example
 	- will add more complex examples
 <br>
 <br>
