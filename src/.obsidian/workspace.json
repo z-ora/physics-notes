@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
+                "file": "links/edpuzzle.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
+                "file": "links/edpuzzle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
+                "file": "links/edpuzzle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction.md"
+                "file": "links/edpuzzle.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "851d301ee01f2081",
   "lastOpenFiles": [
-    "book1/heat_problems.md",
+    "assets/work_in_progress.png",
     "Introduction.md",
+    "book1/heat_problems.md",
     "SUMMARY.md",
     "book1/heat.md",
     "book1/internal_energy.md",
@@ -180,7 +181,6 @@
     "book2/acceleration.md",
     "book2/test",
     "book2",
-    "assets/work_in_progress.png",
     "chapter_1.md"
   ]
 }
