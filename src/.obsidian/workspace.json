@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "links/edpuzzle.md",
+                "file": "book1/heat_problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "links/edpuzzle.md",
+                "file": "book1/heat_problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "links/edpuzzle.md",
+                "file": "book1/heat_problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "links/edpuzzle.md"
+                "file": "book1/heat_problems.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "851d301ee01f2081",
   "lastOpenFiles": [
+    "links/edpuzzle.md",
     "assets/work_in_progress.png",
     "Introduction.md",
     "book1/heat_problems.md",
@@ -157,7 +158,6 @@
     "book3a/refraction.md",
     "book2/speed_velocity.md",
     "book2/distance_displacement.md",
-    "links/edpuzzle.md",
     "book1",
     "book3a/light_properties.md",
     "book3a/tir.md",

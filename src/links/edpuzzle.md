@@ -23,6 +23,7 @@ Pre-lesson videos
 - [Power (1.2.6)](https://www.youtube.com/watch?v=paBgBuUqQN0)
 - [Heat capacity (1.2.8)](https://www.youtube.com/watch?v=TuMeMsxVl-0)
 - [Specific heat capacity (1.2.10)](https://www.youtube.com/watch?v=iV2pJHc6mkc)
+- [Heat and Mixing (1.2.14)](https://www.youtube.com/watch?v=wXP_7GcYmEw)
 
 thCW
 - [eg 2 (1.2.2)](https://www.youtube.com/watch?v=qFswnqeZSHA)
