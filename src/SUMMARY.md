@@ -8,6 +8,8 @@
 - [Internal energy, KE & PE](book1/internal_energy.md)
 - [Heat](book1/heat.md)
 - [Solving Heat Problems](book1/heat_problems.md)
+- [Convection](./book1/convection.md)
+- [Mole](./book1/mole.md)
 # Book 2
 - [Distance & Displacement](book2/distance_displacement.md)
 - [Speed & Velocity](book2/speed_velocity.md)
