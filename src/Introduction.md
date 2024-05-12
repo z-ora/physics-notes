@@ -8,12 +8,6 @@ This is Tovi's private physics notes.
 
 > This notes will be updated regularly on Wednesday nights (hopefully)
 
----
-## New Stuff: 27/3
-- [Edpuzzle links](links/edpuzzle.md) for revision
-- [How to solve heat problems](book1/heat_problems.md) with example
-	- will add more complex examples
-<br>
 <br>
 
 ---
