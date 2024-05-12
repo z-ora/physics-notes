@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book1/mole.md",
+                "file": "book1/heat_problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book1/mole.md",
+                "file": "book1/heat_problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book1/mole.md",
+                "file": "book1/heat_problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book1/mole.md"
+                "file": "book1/heat_problems.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "851d301ee01f2081",
   "lastOpenFiles": [
+    "book1/convection.md",
+    "book1/mole.md",
     "SUMMARY.md",
     "book1/conv",
-    "book1/mole.md",
-    "book1/convection.md",
     "links/edpuzzle.md",
     "book1/heat_problems.md",
     "assets/work_in_progress.png",

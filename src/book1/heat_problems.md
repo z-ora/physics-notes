@@ -15,9 +15,3 @@ Main ways to relate heat:
 - $Q = C\Delta T$
 - $Q = mc\Delta T$
 \*This is just a summary, for more details please refer to their related pages
-
----
-# Examples
-these are uncommon and challenging examples, for more trivial examples check out ur phy notes
-
-> There are originally some questions here, but then tovi realized that similar questions are in the notes, so they are removed and new questions will be added here soon :(
